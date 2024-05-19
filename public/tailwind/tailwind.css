@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&family=Poetsen+One&display=swap');
+@layer base {
+    @font-face {
+      font-family: 'iransans';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(../Media/IRANSansFamily/IRANYekanWebFn-Light.woff2) format('woff2');
+    }
+  }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
